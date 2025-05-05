@@ -6,7 +6,7 @@ I have this chinese everdrive clone:
 Until now, using the [Online savefileconverter](https://savefileconverter.com/#/srm-sav), I was only able to get a working sav for
 mgba and other emulators, but I was unable to do the conversion back from sav to the flashcard SRM. So, I decided to test 
 [chat GPT's AI](https://chatgpt.com/) with the online converter and the code from [c99koder/srm-to-sav](https://github.com/c99koder/srm-to-sav) to 
-create a script so I can have a converter for my saves. I tested the output with 2 games ("Pokemon - Aka (Japan) (SGB Enhanced)" and "Mickey's Racing Adventure") with positive results. Hence why I put them here for anyone interested in using them.
+create a converter for my saves. I tested the output with 2 games ("Pokemon - Aka (Japan) (SGB Enhanced)" and "Mickey's Racing Adventure") with positive results. Hence why I put them here for anyone interested in using them.
 
 ## Use
 *Run the appropiate command from the folder that contains your .sav or .srm files.*
