@@ -23,7 +23,7 @@ create a converter for my saves. I tested the output with 2 games ("Pokemon - Ak
 - I haven't tested in more games yet, but feel free to do it and report the results with an [issue](https://github.com/Bunkai9448/FlashcardGBsav2srm/issues) 
 stating the game and if it did work or not.
 
-## Game's Tested
+## Games Tested
 
 - Pokemon - Aka (Japan) (SGB Enhanced) > Works
 - Pocket Monsters Gin (Japan) (Rev A) (SGB Enhanced) > Works
