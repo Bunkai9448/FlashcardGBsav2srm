@@ -17,7 +17,7 @@ create a converter for my saves. I tested the output with 2 games ("Pokemon - Ak
 - From SRM to SAV
 `python sav-to-srm.py -i <input.sav> -o <output.srm>`
 
-# FAQ
+## FAQ
 
 - I've already sent a message to the [Online savefileconverter](https://savefileconverter.com/#/srm-sav) owner in case s/he wants to add it.
 - I haven't tested in more games yet, but feel free to do it and report the results with an [issue](https://github.com/Bunkai9448/FlashcardGBsav2srm/issues) 
