@@ -1,5 +1,7 @@
 # README
 
+**UPDATE:** As explained [here](https://github.com/mgba-emu/mgba/issues/3488#issuecomment-2851974248), the code does nothing but changing the extension. I could swear I saw diff changes, and even used tools to check, It had to be that I messed with the files or something. I leave this in the open to remind me and everyone who lands here to avoid going in loops in the future.
+
 I have this chinese everdrive clone:  
 ![Clone Everdrive Picture](https://github.com/Bunkai9448/FlashcardGBsav2srm/blob/main/everdrive.jpg)
 
